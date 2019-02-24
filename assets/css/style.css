@@ -1,0 +1,118 @@
+body{
+
+	background-image: url("../images/background.jpg")
+
+}
+
+div{
+
+	background-color: orange;
+
+	margin: 10px;
+
+	width: 25%
+
+	border= solid 2px white;
+
+    padding: 10px;
+    
+}
+
+
+h1, h3, span{
+
+	text-align: center;
+
+}
+
+h1{
+
+	font-size: 40pt;
+
+}
+
+ol{
+
+	list-style: decimal inside; 
+
+}
+
+ul {
+
+	list-style: disc;
+
+	text-indent: 10px;
+
+}
+
+
+div.gems{
+
+	background-color:white;
+
+}
+
+
+.winsAndLosses{
+    
+    margin-top: 30px;
+    
+    width: 100%;
+
+	height: 60px;
+
+}
+
+.userTotal{
+
+	width: 100%;
+
+	height: 60px;
+
+}
+
+.gems{
+
+	clear: both;
+
+}
+
+.gemImage{
+
+	height: 60px;
+
+	margin: 10px;
+
+}
+
+.randomValue{
+    margin-top: 30px;
+    
+    width: 100%;
+
+	height: 60px;
+}
+
+#blue{
+
+	color: blue;
+
+}
+
+#green{
+
+	color: green;
+
+}
+
+#red{
+
+	color: red;
+
+}
+
+#yellow{
+
+	color: yellow;
+
+}
